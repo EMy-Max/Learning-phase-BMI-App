@@ -51,7 +51,7 @@ class ResultsPage extends StatelessWidget {
                     Text(interpretation,
                     style: TextStyle(
                       color: kIconColor,
-                      fontSize: 15,git init
+                      fontSize: 15,
                     ),
                     )
                   ],
